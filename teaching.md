@@ -14,4 +14,8 @@ layout: default
 
 [Selected topics from experimental high- energy physics](https://sites.google.com/site/nagyenergiasfizika/), Eötvös University
 
+## Supervision
 
+Barbara Schweisshelm - “Influence of the Charge Cloud Size on Germanium Detector Pulse Shapes in the GERDA Experiment”, MSc thesis, TU München
+
+Philipp Holl - “Deep learning based pulse shape analysis for GERDA”, MSc thesis, TU München
