@@ -4,6 +4,13 @@ layout: default
 
 ## Publications
 
+Also found on
+* Google Scholar [![here](/files/google-scholar.png)](https://scholar.google.com/citations?&user=sdUPgwcAAAAJ)
+* ORCID [![here](/files/orcid.png)](https://orcid.org/0000-0002-3368-8863)
+* [![inspireHEP](/files/inspire_logo_hep.png)](https://inspirehep.net/author/profile/A.J.Zsigmond.1)
+
+### Published papera
+
 GERDA Collaboration, “Improved limit on neutrinoless double beta decay of 76Ge from GERDA Phase II”, [arXiv:1803.11100](https://arxiv.org/abs/1803.11100), [_Phys. Rev. Lett._ __120__ (2018) 132503](https://doi.org/10.1103/PhysRevLett.120.132503)
 
 GERDA Collaboration, “Upgrade for Phase II of the Gerda experiment”, [arXiv:1711.01452](https://arxiv.org/abs/1711.01452), [_Eur. Phys. J. C_ __78__ (2018) 388](https://doi.org/10.1140/epjc/s10052-018-5812-2)
