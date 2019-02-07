@@ -54,7 +54,7 @@ __BSc__ course in physics 2007 - 2010, Eötvös Loránd University, Budapest
 ## Other responsibilities
 * Member of GERDA Editorial Board
 * Early career member representative on LEGEND Institutional Board
-* Organisation of MPP Colloquia
+* Organisation of [MPP Colloquia](https://indico.mpp.mpg.de/category/35/)
 * Supervision of MSc students
 * Coordinator and contact person of the centrality and event-plane reconstruction in the CMS heavy-ion physics analysis group (2012-2016)
 * Outreach events: Particle Physics Masterclasses, Girls’ Day
