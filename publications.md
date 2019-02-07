@@ -9,7 +9,7 @@ Also found on
 * ORCID [<img src="orcid.png" alt="here" height="50"/>](https://orcid.org/0000-0002-3368-8863)
 * [<img src="inspire_logo_hep.png" alt="inspireHEP" height="50"/>](https://inspirehep.net/author/profile/A.J.Zsigmond.1)
 
-### Published papera
+### Published papers
 
 GERDA Collaboration, “Improved limit on neutrinoless double beta decay of 76Ge from GERDA Phase II”, [arXiv:1803.11100](https://arxiv.org/abs/1803.11100), [_Phys. Rev. Lett._ __120__ (2018) 132503](https://doi.org/10.1103/PhysRevLett.120.132503)
 
