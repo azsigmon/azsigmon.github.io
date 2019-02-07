@@ -20,9 +20,10 @@ __Student research project (TDK)__ 2008 - 2009
 * Special prize from the Fellowship for the Integration of Science and Technology (ETTE)
 
 ## Employment
-since 2016	Postdoc at Max Planck Institute for Physics, Munich
 
-2011 - 2016	Research assistant at Wigner Research Centre for Physics of the Hungarian Academy of Sciences, Budapest
+Postdoc at [Max Planck Institute for Physics](https://www.mpp.mpg.de/), Munich, since 2016
+
+Research assistant at [Wigner Research Centre for Physics of the Hungarian Academy of Sciences](https://wigner.mta.hu/en/news), Budapest, 2011 - 2016
 
 ## Education
 
