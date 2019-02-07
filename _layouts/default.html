@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer" style="background-color:#007775;">
+        <header style="background-color:#1A2A5B;">
+          <header class="inner" style="background-color:#007775;">
+            <a style="color:#ddded6" href="/">Home</a> &nbsp;
+          </header>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer" style="background-color:#007775;">
+      <footer class="inner" style="background-color:#007775;">
+      </footer>
+    </div>
+  </body>
+</html>
