@@ -13,18 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: LEGEND
-email: info@legend-exp.org
+title: Anna Julia Zsigmond
+email: azsigmon@mpp.mpg.de
 description: > # this means to ignore newlines until "baseurl:"
   #Very short description / mission statement (edit in _config.yml). 
   #Will appear in document head meta (for Google search results)
   #and in feed.xml site description.
-  The mission of LEGEND is to field a Ge-76 experiment with neutrinoless double-beta
-  decay discovery sensitivity well beyond 10^27 years in half-life.
+  Anna Julia Zsigmond, experimental particle physicist, personal page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://legend-exp.org" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  legend-exp
+github_username:  azsigmon
 
 # Build settings
 markdown: kramdown
