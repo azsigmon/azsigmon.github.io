@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Publications
+## Publications
 
 GERDA Collaboration, “Improved limit on neutrinoless double beta decay of 76Ge from GERDA Phase II”, [arXiv:1803.11100](https://arxiv.org/abs/1803.11100), [_Phys. Rev. Lett._ __120__ (2018) 132503](https://doi.org/10.1103/PhysRevLett.120.132503)
 
@@ -24,7 +24,7 @@ CMS Collaboration, “Measurement of the inelastic proton-proton cross section a
 
 CMS Collaboration, “Observation of sequential Upsilon suppression in PbPb collisions”, [arXiv:1208.2826](https://arxiv.org/abs/1208.2826), [_Phys. Rev. Lett._ __109__ (2012) 222301](http://dx.doi.org/10.1103/PhysRevLett.109.222301)
 
-## Conference proceedings
+### Conference proceedings
 
 A.J. Zsigmond for the GERDA Collaboration, “New results from GERDA Phase II”, [Proceedings of Neutrino 2018 on Zenodo](https://doi.org/10.5281/zenodo.1287604)
 
