@@ -5,9 +5,9 @@ layout: default
 ## Publications
 
 Also found on
-* Google Scholar [<img src="google-scholar.png" alt="here" height="50px"/>](https://scholar.google.com/citations?&user=sdUPgwcAAAAJ)
-* ORCID [<img src="orcid.png" alt="here" width="50px"/>](https://orcid.org/0000-0002-3368-8863)
-* [<img src="inspire_logo_hep.png" alt="inspireHEP" height="100"/>](https://inspirehep.net/author/profile/A.J.Zsigmond.1)
+* Google Scholar [<img src="/files/google-scholar.png" alt="here" height="50px"/>](https://scholar.google.com/citations?&user=sdUPgwcAAAAJ)
+* ORCID [<img src="/files/orcid.png" alt="here" height="50px"/>](https://orcid.org/0000-0002-3368-8863)
+* [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="50px"/>](https://inspirehep.net/author/profile/A.J.Zsigmond.1)
 
 ### Published papers
 
