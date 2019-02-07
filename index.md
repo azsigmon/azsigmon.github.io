@@ -26,26 +26,26 @@ since 2016	Postdoc at Max Planck Institute for Physics, Munich
 
 ## Education
 
-2012 - 2016 __PhD__ course in physics, Eötvös Loránd University, Budapest
+__PhD__ course in physics 2012 - 2016, Eötvös Loránd University, Budapest
 * Thesis: “Measurement of Z boson production in heavy-ion collisions with the CMS experiment at the LHC”
 * Supervisors: Dr. Ferenc Siklér (Wigner RCP) and Dr. Gábor Veres (Eötvös University)
 * Particle physics and astronomy program
 * Grade: summa cum laude
 
-2014 [ECT* Doctoral Training Program](http://www.ectstar.eu/node/753) - Heavy Ion Collisions: exploring nuclear matter under extreme conditions
+[ECT* Doctoral Training Program 2014](http://www.ectstar.eu/node/753) - Heavy Ion Collisions: exploring nuclear matter under extreme conditions
 
-2010 - 2012 __MSc__ course in physics, Eötvös Loránd University, Budapest
+__MSc__ course in physics 2010 - 2012, Eötvös Loránd University, Budapest
 * Particle, nuclear and astrophysics courses
 * 2011/2012 scholarship of the Hungarian Republic (top 0.8%)
 * Thesis: “Measurement of the inelastic proton-proton cross section in the CMS experiment”
 * Supervisors: Dr. Gábor Veres (CERN and Eötvös University) and Dr. Ferenc Siklér (Wigner RCP)
 * Diploma grade: with Honors
 
-2010 CERN Summer Student Program
+CERN Summer Student Program 2010
 * Project: “Tracker material budget - energy loss study”
 * Supervisors: Marcello Mannelli and Domenico Giordano
 
-2007 - 2010 __BSc__ course in physics, Eötvös Loránd University, Budapest
+__BSc__ course in physics 2007 - 2010, Eötvös Loránd University, Budapest
 * Thesis: “PT symmetric quantum mechanics”
 * Supervisor: Dr. Gábor Takács (Eötvös University)
 * Diploma grade: with Honors
