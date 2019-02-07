@@ -9,7 +9,7 @@ layout: default
 * Study of pulse shape discrimination with germanium detectors
 
 [__LEGEND experiment__](http://legend-exp.org/)
-* New 3D field calculation and pulse shape simulation package in Julia programming language (SolidStateDetectors.jl)
+* New 3D field calculation and pulse shape simulation package in Julia programming language ([SolidStateDetectors.jl](https://juliahep.github.io/SolidStateDetectors.jl/stable/))
 
 [__CMS experiment__](https://cms.cern/) 2010 - 2016
 * Analysis of jet quenching in Z+jet events, particle multiplicities, Z boson production in lead-lead and proton-lead collisions, proton-proton inelastic cross section
