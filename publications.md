@@ -49,6 +49,6 @@ A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross sectio
 
 ### Others
 
-P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462)
+P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462), _accepted by Eur. Phys. J. C_
 
-GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590)
+GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), _submitted to Eur. Phys. J. C_
