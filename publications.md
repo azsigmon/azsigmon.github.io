@@ -47,4 +47,8 @@ A.J. Zsigmond on behalf of the CMS Collaboration, “Electroweak bosons in CMS�
 
 A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross section measurements at 7 TeV in CMS”, [arXiv:1205.3142](https://arxiv.org/abs/1205.3142), [Proceedings of DIS 2012](http://dx.doi.org/10.3204/DESY-PROC-2012-02/181)
 
+### Others
 
+P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462)
+
+GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590)
