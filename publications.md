@@ -41,7 +41,7 @@ A.J. Zsigmond for the CMS Collaboration, “CMS results on electroweak probes fr
 
 A.J. Zsigmond for the CMS Collaboration, “Study of Z boson production in pp, pPb and PbPb collisions in CMS”, [_J. Phys.: Conf. Ser._ __612__ (2015) 012011](http://dx.doi.org/10.1088/1742-6596/612/1/012011)
 
-A.J. Zsigmond for the CMS Collaboration, “Z and W boson production in pPb collisions with CMS ”, [ Nucl. Phys. A __931__ (2014) 718](http://dx.doi.org/10.1016/j.nuclphysa.2014.07.039)
+A.J. Zsigmond for the CMS Collaboration, “Z and W boson production in pPb collisions with CMS ”, [_Nucl. Phys. A_ __931__ (2014) 718](http://dx.doi.org/10.1016/j.nuclphysa.2014.07.039)
 
 A.J. Zsigmond on behalf of the CMS Collaboration, “Electroweak bosons in CMS”, [_Nucl. Phys. A_ __926__ (2014) 34](http://dx.doi.org/10.1016/j.nuclphysa.2014.02.016)
 
