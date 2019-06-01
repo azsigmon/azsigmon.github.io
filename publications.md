@@ -11,6 +11,8 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
+P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462), [_Eur. Phys. J. C_ __79__ (2019) 450](https://doi.org/10.1140/epjc/s10052-019-6869-2)
+
 GERDA Collaboration, “Improved limit on neutrinoless double beta decay of 76Ge from GERDA Phase II”, [arXiv:1803.11100](https://arxiv.org/abs/1803.11100), [_Phys. Rev. Lett._ __120__ (2018) 132503](https://doi.org/10.1103/PhysRevLett.120.132503)
 
 GERDA Collaboration, “Upgrade for Phase II of the Gerda experiment”, [arXiv:1711.01452](https://arxiv.org/abs/1711.01452), [_Eur. Phys. J. C_ __78__ (2018) 388](https://doi.org/10.1140/epjc/s10052-018-5812-2)
@@ -48,7 +50,5 @@ A.J. Zsigmond on behalf of the CMS Collaboration, “Electroweak bosons in CMS�
 A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross section measurements at 7 TeV in CMS”, [arXiv:1205.3142](https://arxiv.org/abs/1205.3142), [Proceedings of DIS 2012](http://dx.doi.org/10.3204/DESY-PROC-2012-02/181)
 
 ### Others
-
-P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462), _accepted by Eur. Phys. J. C_
 
 GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), _submitted to Eur. Phys. J. C_
