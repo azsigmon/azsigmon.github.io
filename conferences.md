@@ -4,6 +4,8 @@ layout: default
 
 ## Conferences
 
+[DPG Spring Meeting 2019](https://aachen19.dpg-tagungen.de/) (Group report: “Search for neutrinoless double beta decay with GERDA: status and results” and Poster: “A new 3D Simulation Package for Solid-State-Detectors - SolidStateDetectors.jl”)
+
 [Neutrino 2018](https://www.mpi-hd.mpg.de/nu2018/) - XXVIII International Conference on Neutrino Physics and Astrophysics (Plenary talk: “New results from GERDA Phase II”)
 
 [DPG Spring Meeting 2018](https://wuerzburg18.dpg-tagungen.de/) (Group report: “GERDA Phase II - Results on the search for neutrinoless double beta decay”)
