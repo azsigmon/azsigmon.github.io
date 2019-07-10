@@ -16,9 +16,6 @@
 title: Anna Julia Zsigmond
 email: azsigmon@mpp.mpg.de
 description: > # this means to ignore newlines until "baseurl:"
-  #Very short description / mission statement (edit in _config.yml). 
-  #Will appear in document head meta (for Google search results)
-  #and in feed.xml site description.
   Anna Julia Zsigmond, experimental particle physicist, personal page
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  azsigmon
