@@ -18,7 +18,7 @@ layout: default
 
 [DPG Spring Meeting 2017](https://muenster17.dpg-tagungen.de/) (Parallel talk: “Pulse Shape Discrimination performance of BEGe detectors in GERDA Phase II”)
 
-[HAP workshop 2017 - Big data science in astroparticle physics](https://indico.scc.kit.edu/event/277/)
+[HAP workshop 2017](https://indico.scc.kit.edu/event/277/) - Big data science in astroparticle physics
 
 [LHC students poster session 2016](https://indico.cern.ch/event/491582/) (Poster: “Study of Z boson production in pPb collisions with CMS”)
 
