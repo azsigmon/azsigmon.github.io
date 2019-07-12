@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## Conferences
+## Conferences and workshops
 
 [DPG Spring Meeting 2019](https://aachen19.dpg-tagungen.de/) (Group report: “Search for neutrinoless double beta decay with GERDA: status and results” and Poster: “A new 3D Simulation Package for Solid-State-Detectors - SolidStateDetectors.jl”)
+
+[PHYSTAT-nu 2019](https://indico.cern.ch/event/735431/)
 
 [Neutrino 2018](https://www.mpi-hd.mpg.de/nu2018/) - XXVIII International Conference on Neutrino Physics and Astrophysics (Plenary talk: “New results from GERDA Phase II”)
 
@@ -15,6 +17,8 @@ layout: default
 [EPS-HEP 2017](https://indico.cern.ch/event/466934/) - European Physical Society Conference on High Energy Physics (Parallel talk: “GERDA Phase II: search for neutrinoless double beta decay”)
 
 [DPG Spring Meeting 2017](https://muenster17.dpg-tagungen.de/) (Parallel talk: “Pulse Shape Discrimination performance of BEGe detectors in GERDA Phase II”)
+
+[HAP workshop 2017 - Big data science in astroparticle physics](https://indico.scc.kit.edu/event/277/)
 
 [LHC students poster session 2016](https://indico.cern.ch/event/491582/) (Poster: “Study of Z boson production in pPb collisions with CMS”)
 
