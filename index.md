@@ -52,6 +52,7 @@ __BSc__ course in physics 2007 - 2010, Eötvös Loránd University, Budapest
 * Diploma grade: with Honors
 
 ## Other responsibilities
+* Run coordinator of GERDA
 * Member of GERDA Editorial Board
 * Early career member representative on LEGEND Institutional Board
 * Organisation of [MPP Colloquia](https://indico.mpp.mpg.de/category/35/)
