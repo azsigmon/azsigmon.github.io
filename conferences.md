@@ -4,11 +4,15 @@ layout: default
 
 ## Conferences and workshops
 
+[Vistas on Detector Physics](https://indico.cern.ch/event/845712/) HighRR workshop (Invited talk: “Understanding signal shapes from germanium detectors”)
+
+[TAUP 2019](http://taup2019.icrr.u-tokyo.ac.jp/) - 16th International Conference on Topics in Astroparticle and Underground Physics (Parallel talk: “LEGEND: The future of neutrinoless double-beta decay search with germanium detectors”)
+
 [DPG Spring Meeting 2019](https://aachen19.dpg-tagungen.de/) (Group report: “Search for neutrinoless double beta decay with GERDA: status and results” and Poster: “A new 3D Simulation Package for Solid-State-Detectors - SolidStateDetectors.jl”)
 
 [PHYSTAT-nu 2019](https://indico.cern.ch/event/735431/)
 
-[Neutrino 2018](https://www.mpi-hd.mpg.de/nu2018/) - XXVIII International Conference on Neutrino Physics and Astrophysics (Plenary talk: “New results from GERDA Phase II”)
+[Neutrino 2018](https://www.mpi-hd.mpg.de/nu2018/) - XXVIII International Conference on Neutrino Physics and Astrophysics (Invited talk: “New results from GERDA Phase II”)
 
 [DPG Spring Meeting 2018](https://wuerzburg18.dpg-tagungen.de/) (Group report: “GERDA Phase II - Results on the search for neutrinoless double beta decay”)
 
