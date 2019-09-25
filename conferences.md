@@ -4,7 +4,9 @@ layout: default
 
 ## Conferences and workshops
 
-[Vistas on Detector Physics](https://indico.cern.ch/event/845712/) HighRR workshop (Invited talk: “Understanding signal shapes from germanium detectors”)
+[BLV2019](https://indico.cern.ch/event/754031/overview) International Workshop on Baryon and Lepton Number Violation (Invited talk)
+
+[HighRR workshop - Vistas on Detector Physics 2019](https://indico.cern.ch/event/845712/) (Invited talk: “Understanding signal shapes from germanium detectors”)
 
 [TAUP 2019](http://taup2019.icrr.u-tokyo.ac.jp/) - 16th International Conference on Topics in Astroparticle and Underground Physics (Parallel talk: “LEGEND: The future of neutrinoless double-beta decay search with germanium detectors”)
 
