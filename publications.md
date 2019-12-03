@@ -13,7 +13,7 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), [_Eur. Phys. J. C_ __79__ (2019) 978](http://dx.doi.org/10.1140/epjc/s10052-019-7353-8)
 
-GERDA Collaboration, “Probing Majorana neutrinos with double-β decay”, [arXiv:1909.02726](https://arxiv.org/abs/1909.02726), [_Science_ __365___(2019)_1445](https://doi.org/10.1126/science.aav8613)
+GERDA Collaboration, “Probing Majorana neutrinos with double-β decay”, [arXiv:1909.02726](https://arxiv.org/abs/1909.02726), [_Science_ __365__ (2019) 1445](https://doi.org/10.1126/science.aav8613)
 
 P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462), [_Eur. Phys. J. C_ __79__ (2019) 450](https://doi.org/10.1140/epjc/s10052-019-6869-2)
 
