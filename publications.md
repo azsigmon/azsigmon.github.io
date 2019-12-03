@@ -11,7 +11,9 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-GERDA Collaboration, “Probing Majorana neutrinos with double-β decay”, [arXiv:1909.02726](https://arxiv.org/abs/1909.02726), [_Science_ 05 Sep 2019](https://doi.org/10.1126/science.aav8613)
+GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), [_Eur. Phys. J. C_ __79__ (2019) 978](http://dx.doi.org/10.1140/epjc/s10052-019-7353-8)
+
+GERDA Collaboration, “Probing Majorana neutrinos with double-β decay”, [arXiv:1909.02726](https://arxiv.org/abs/1909.02726), [_Science_ __365___(2019)_1445](https://doi.org/10.1126/science.aav8613)
 
 P. Holl, L. Hauertmann, B. Majorovits, O. Schulz, M. Schuster, A.J. Zsigmond, “Deep learning based pulse shape discrimination for germanium detectors”, [arXiv:1903.01462](https://arxiv.org/abs/1903.01462), [_Eur. Phys. J. C_ __79__ (2019) 450](https://doi.org/10.1140/epjc/s10052-019-6869-2)
 
@@ -52,7 +54,5 @@ A.J. Zsigmond on behalf of the CMS Collaboration, “Electroweak bosons in heavy
 A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross section measurements at 7 TeV in CMS”, [arXiv:1205.3142](https://arxiv.org/abs/1205.3142), [Proceedings of DIS 2012](http://dx.doi.org/10.3204/DESY-PROC-2012-02/181)
 
 ### Others
-
-GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), _accepted by Eur. Phys. J. C_
 
 GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522)
