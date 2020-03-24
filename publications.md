@@ -40,7 +40,7 @@ CMS Collaboration, “Observation of sequential Upsilon suppression in PbPb coll
 ### Conference proceedings
 
 A.J. Zsigmond for the LEGEND Collaboration, , “LEGEND: The future of neutrinoless double-beta
-decay search with germanium detectors”, _accepted by J. Phys.: Conf. Ser._
+decay search with germanium detectors”, [_J. Phys.: Conf. Ser._ __1468__ (2020) 012111](https://doi.org/10.1088/1742-6596/1468/1/012111)
 
 A.J. Zsigmond for the GERDA Collaboration, “New results from GERDA Phase II”, [Proceedings of Neutrino 2018 on Zenodo](https://doi.org/10.5281/zenodo.1287604)
 
@@ -58,4 +58,4 @@ A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross sectio
 
 ### Others
 
-GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), submitted to _JHEP_
+GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), accepted by _JHEP_
