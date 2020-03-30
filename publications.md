@@ -11,6 +11,8 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
+GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), [_J. High Energ. Phys._ __3__ (2020) 139 ](https://doi.org/10.1007/JHEP03(2020)139)
+
 GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), [_Eur. Phys. J. C_ __79__ (2019) 978](http://dx.doi.org/10.1140/epjc/s10052-019-7353-8)
 
 GERDA Collaboration, “Probing Majorana neutrinos with double-β decay”, [arXiv:1909.02726](https://arxiv.org/abs/1909.02726), [_Science_ __365__ (2019) 1445](https://doi.org/10.1126/science.aav8613)
@@ -58,4 +60,3 @@ A.J. Zsigmond for the CMS Collaboration, “Inelastic proton-proton cross sectio
 
 ### Others
 
-GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), accepted by _JHEP_
