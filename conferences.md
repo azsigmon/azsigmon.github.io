@@ -4,8 +4,6 @@ layout: default
 
 ## Conferences and workshops
 
-[DPG Spring Meeting 2020](https://bonn20.dpg-tagungen.de/)
-
 [BLV2019](https://indico.cern.ch/event/754031/overview) International Workshop on Baryon and Lepton Number Violation (Invited talk: “Search for neutrinoless double beta decay with germanium detectors”)
 
 [HighRR workshop - Vistas on Detector Physics 2019](https://indico.cern.ch/event/845712/) (Invited talk: “Understanding signal shapes from germanium detectors”)
