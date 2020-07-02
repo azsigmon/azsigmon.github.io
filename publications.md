@@ -11,9 +11,9 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-GERDA Collaboration, “The first search for bosonic super-WIMPs with masses up to 1 MeV/c² with GERDA”, [arXiv:2005.14184](https://arxiv.org/abs/2005.14184), _accepted by Phys.Rev.Lett._
+GERDA Collaboration, “The first search for bosonic super-WIMPs with masses up to 1 MeV/c² with GERDA”, [arXiv:2005.14184](https://arxiv.org/abs/2005.14184), [_Phys. Rev. Lett._ __125__ (2020) 011801](https://doi.org/10.1103/PhysRevLett.125.011801)
 
-GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), [_J. High Energ. Phys._ __3__ (2020) 139 ](https://doi.org/10.1007/JHEP03(2020)139)
+GERDA Collaboration, “Modeling of GERDA Phase II data”, [arXiv:1909.02522](https://arxiv.org/abs/1909.02522), [_J. High Energ. Phys._ __3__ (2020) 139](https://doi.org/10.1007/JHEP03(2020)139)
 
 GERDA Collaboration, “Characterization of 30 76Ge enriched Broad Energy Ge detectors for GERDA Phase II”, [arXiv:1901.06590](https://arxiv.org/abs/1901.06590), [_Eur. Phys. J. C_ __79__ (2019) 978](http://dx.doi.org/10.1140/epjc/s10052-019-7353-8)
 
