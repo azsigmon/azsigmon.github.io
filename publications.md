@@ -11,7 +11,13 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-GERDA Collaboration, "Final Results of GERDA on the Search for Neutrinoless Double-β Decay", [arXiv:2009.06079](https://arxiv.org/abs/2009.06079), _submitted to Phys. Rev. Lett._
+I. Abt, F. Fischer, F. Hagemann, L. Hauertmann, O. Schulz, M. Schuster, A.J. Zsigmond, "Simulation of semiconductor detectors in 3D with SolidStateDetectors.jl", [arXiv:2104.00109](https://arxiv.org/abs/2104.00109)
+
+GERDA Collaboration, "Characterization of inverted coaxial ⁷⁶Ge detectors in GERDA for future double-β decay experiments", [arXiv:2103.15111](https://arxiv.org/abs/2103.15111)
+
+GERDA Collaboration, "Calibration of the GERDA experiment", [arXiv:2103.13777](https://arxiv.org/abs/2103.13777)
+
+GERDA Collaboration, "Final Results of GERDA on the Search for Neutrinoless Double-β Decay", [arXiv:2009.06079](https://arxiv.org/abs/2009.06079), [_Phys. Rev. Lett._ __125__ (2020) 252502](https://doi.org/10.1103/PhysRevLett.125.252502)
 
 GERDA Collaboration, “The first search for bosonic super-WIMPs with masses up to 1 MeV/c² with GERDA”, [arXiv:2005.14184](https://arxiv.org/abs/2005.14184), [_Phys. Rev. Lett._ __125__ (2020) 011801](https://doi.org/10.1103/PhysRevLett.125.011801)
 
