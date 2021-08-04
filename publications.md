@@ -11,11 +11,11 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-I. Abt, F. Fischer, F. Hagemann, L. Hauertmann, O. Schulz, M. Schuster, A.J. Zsigmond, "Simulation of semiconductor detectors in 3D with SolidStateDetectors.jl", [arXiv:2104.00109](https://arxiv.org/abs/2104.00109)
+I. Abt, F. Fischer, F. Hagemann, L. Hauertmann, O. Schulz, M. Schuster, A.J. Zsigmond, "Simulation of semiconductor detectors in 3D with SolidStateDetectors.jl", [arXiv:2104.00109](https://arxiv.org/abs/2104.00109), [_JINST_ **16** (2021) P08007](https://doi.org/10.1088/1748-0221/16/08/P08007)
 
-GERDA Collaboration, "Characterization of inverted coaxial ⁷⁶Ge detectors in GERDA for future double-β decay experiments", [arXiv:2103.15111](https://arxiv.org/abs/2103.15111)
+GERDA Collaboration, "Characterization of inverted coaxial ⁷⁶Ge detectors in GERDA for future double-β decay experiments", [arXiv:2103.15111](https://arxiv.org/abs/2103.15111), [_Eur. Phys. J. C_ **81** (2021) 505](https://doi.org/10.1140/epjc/s10052-021-09184-8)
 
-GERDA Collaboration, "Calibration of the GERDA experiment", [arXiv:2103.13777](https://arxiv.org/abs/2103.13777)
+GERDA Collaboration, "Calibration of the GERDA experiment", [arXiv:2103.13777](https://arxiv.org/abs/2103.13777), [_Eur. Phys. J. C_ **81** (2021) 682](https://doi.org/10.1140/epjc/s10052-021-09403-2)
 
 GERDA Collaboration, "Final Results of GERDA on the Search for Neutrinoless Double-β Decay", [arXiv:2009.06079](https://arxiv.org/abs/2009.06079), [_Phys. Rev. Lett._ __125__ (2020) 252502](https://doi.org/10.1103/PhysRevLett.125.252502)
 
