@@ -11,6 +11,10 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
+I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors", [arXiv:2202.03116](https://arxiv.org/abs/2202.03116)
+
+GERDA Collaboration, "Pulse shape analysis in GERDA Phase II", [arXiv:2202.13355](https://arxiv.org/abs/2202.13355), _accepted by Eur. Phys. J. C_
+
 I. Abt, F. Fischer, F. Hagemann, L. Hauertmann, O. Schulz, M. Schuster, A.J. Zsigmond, "Simulation of semiconductor detectors in 3D with SolidStateDetectors.jl", [arXiv:2104.00109](https://arxiv.org/abs/2104.00109), [_JINST_ **16** (2021) P08007](https://doi.org/10.1088/1748-0221/16/08/P08007)
 
 GERDA Collaboration, "Characterization of inverted coaxial ⁷⁶Ge detectors in GERDA for future double-β decay experiments", [arXiv:2103.15111](https://arxiv.org/abs/2103.15111), [_Eur. Phys. J. C_ **81** (2021) 505](https://doi.org/10.1140/epjc/s10052-021-09184-8)
