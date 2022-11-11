@@ -11,9 +11,13 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors", [arXiv:2202.03116](https://arxiv.org/abs/2202.03116)
+I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "Temperature Dependence of the Electron-Drift Anisotropy and Implications for the Electron-Drift Model", [arXiv:2210.04256](https://arxiv.org/abs/2210.04256), _submitted to JINST_
 
-GERDA Collaboration, "Pulse shape analysis in GERDA Phase II", [arXiv:2202.13355](https://arxiv.org/abs/2202.13355), _accepted by Eur. Phys. J. C_
+I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, X. Liu, O. Schulz, M. Schuster, A. J. Zsigmond, "Identification and simulation of surface alpha events on passivated surfaces of germanium detectors and the influence of metalisation" [arXiv:2206.15265](https://arxiv.org/abs/2206.15265), _submitted to Eur. Phys. J. C_
+
+I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors", [arXiv:2202.03116](https://arxiv.org/abs/2202.03116), [_Eur. Phys. J. C_ **82** (2022) 936](https://doi.org/10.1140/epjc/s10052-022-10884-y)
+
+GERDA Collaboration, "Pulse shape analysis in GERDA Phase II", [arXiv:2202.13355](https://arxiv.org/abs/2202.13355), [_Eur. Phys. J. C_ **82** (2022) 284](https://doi.org/10.1140/epjc/s10052-022-10163-w)
 
 I. Abt, F. Fischer, F. Hagemann, L. Hauertmann, O. Schulz, M. Schuster, A.J. Zsigmond, "Simulation of semiconductor detectors in 3D with SolidStateDetectors.jl", [arXiv:2104.00109](https://arxiv.org/abs/2104.00109), [_JINST_ **16** (2021) P08007](https://doi.org/10.1088/1748-0221/16/08/P08007)
 
