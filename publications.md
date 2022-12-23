@@ -11,11 +11,13 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
+GERDA Collaboration, "Liquid argon light collection and veto modeling in GERDA Phase II", [arXiv:2212.02856](https://arxiv.org/2212.02856), _submitted to Eur. Phys. J. C_
+
 I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "Temperature Dependence of the Electron-Drift Anisotropy and Implications for the Electron-Drift Model", [arXiv:2210.04256](https://arxiv.org/abs/2210.04256), _submitted to JINST_
 
-GERDA Collaboration, "Search for exotic physics in double-β decays with GERDA Phase II", [arXiv:2209:01671](https://arxiv.org/2209.01671), _accepted by J. Cosmol. Astropart. Phys._
+GERDA Collaboration, "Search for exotic physics in double-β decays with GERDA Phase II", [arXiv:2209:01671](https://arxiv.org/2209.01671), [_J. Cosmol. Astropart. Phys._ **12** (2022) 012](https://doi.org/10.1088/1475-7516/2022/12/012)
 
-I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, X. Liu, O. Schulz, M. Schuster, A. J. Zsigmond, "Identification and simulation of surface alpha events on passivated surfaces of germanium detectors and the influence of metalisation" [arXiv:2206.15265](https://arxiv.org/abs/2206.15265), _submitted to Eur. Phys. J. C_
+I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, X. Liu, O. Schulz, M. Schuster, A. J. Zsigmond, "Identification and simulation of surface alpha events on passivated surfaces of germanium detectors and the influence of metalisation" [arXiv:2206.15265](https://arxiv.org/abs/2206.15265), [_Eur. Phys. J. C_ **82** (2022) 1119](https://doi.org/10.1140/epjc/s10052-022-11064-8)
 
 I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "A novel wide-angle Compton Scanner setup to study bulk events in germanium detectors", [arXiv:2202.03116](https://arxiv.org/abs/2202.03116), [_Eur. Phys. J. C_ **82** (2022) 936](https://doi.org/10.1140/epjc/s10052-022-10884-y)
 
