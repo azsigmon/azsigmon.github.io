@@ -11,7 +11,7 @@ and [<img src="/files/inspire_logo_hep.png" alt="inspireHEP" height="20px"/>](ht
 
 ### Published papers
 
-GERDA Collaboration, "Liquid argon light collection and veto modeling in GERDA Phase II", [arXiv:2212.02856](https://arxiv.org/2212.02856), _submitted to Eur. Phys. J. C_
+GERDA Collaboration, "Liquid argon light collection and veto modeling in GERDA Phase II", [arXiv:2212.02856](https://arxiv.org/2212.02856), [_Eur. Phys. J. C_ **83** (2023) 319](https://doi.org/10.1140/epjc/s10052-023-11354-9)
 
 I. Abt, C. Gooch, F. Hagemann, L. Hauertmann, D. Hervas Aguilar, X. Liu, O. Schulz, M. Schuster, A.J. Zsigmond, "Temperature Dependence of the Electron-Drift Anisotropy and Implications for the Electron-Drift Model", [arXiv:2210.04256](https://arxiv.org/abs/2210.04256), _submitted to JINST_
 
